@@ -11,4 +11,4 @@
 - Update specific appartment entity by id [ PUT /appartment/{user_id}/entity/{ID} ]
 
 ## Delete
-- Delete specific appartment entuty by id [ DELETE /appartment/{user_id}/entity/{ID} ]
+- Delete specific appartment entity by id [ DELETE /appartment/{user_id}/entity/{ID} ]
